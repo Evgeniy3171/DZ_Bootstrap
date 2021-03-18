@@ -1,0 +1,21 @@
+.main {
+    max-width: 1200px;
+    background-color: bisque;
+    margin: 20px auto;
+}
+span {
+    display: block;
+    color:#333333;
+    font-family:Tahoma-Bold,AdobeInvisFont,MyriadPro-Regular;
+    font-size:24px;
+    margin: 70px auto;
+    text-align: center;
+}
+.element img {
+    width: 71px;
+}
+.element p{
+    tab-size: 16px;
+    margin-top: 20px;
+    padding: 0;
+}
