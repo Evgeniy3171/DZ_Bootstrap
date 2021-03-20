@@ -11,15 +11,18 @@ span {
     margin: 70px auto;
     text-align: center;
 }
-.col-2 img {
+.col img {
     display: block;
     width: 71px;
     height: 71px;
     margin: 0 auto;
 }
-.col-2 p{
+.col p {
     tab-size: 16px;
     margin: 20px auto;
     padding: 0;
     text-align: center;
+}
+.col-xs-12 .col_4 {
+    order: -1;
 }
