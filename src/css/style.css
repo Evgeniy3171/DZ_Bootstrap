@@ -18,11 +18,11 @@ span {
     margin: 0 auto;
 }
 .col p {
-    tab-size: 16px;
+    font-size: 16px;
     margin: 20px auto;
     padding: 0;
     text-align: center;
 }
-.col-xs-12 .col_4 {
+/* .col-md-6 .col_4 {
     order: -1;
-}
+} */
